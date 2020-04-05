@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Final Exam</title>
 </head>
 <body>
     <h1>Johnathan Sechrist</h1>
